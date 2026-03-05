@@ -1,72 +1,98 @@
-# Hi, I'm Saptarishee Laskar
+<h1 align="center">Saptarishee Laskar</h1>
+<p align="center"><b>Software Developer in Test • Backend Engineer • Cloud & Infra Automation</b></p>
 
-Software Developer in Test with backend and cloud engineering experience across AWS, Azure, Django/DRF, and infrastructure automation.
+<p align="center">
+  <a href="https://github.com/VONBLESS"><img src="https://img.shields.io/badge/GitHub-VONBLESS-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/saptarishee-laskar/"><img src="https://img.shields.io/badge/LinkedIn-Saptarishee_Laskar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" />
+</p>
 
-- LinkedIn: [Saptarishee Laskar](https://www.linkedin.com/in/saptarishee-laskar/)
-- GitHub: [VONBLESS](https://github.com/VONBLESS)
-- Email: saptarishee@gmail.com
-- Mobile: +91-9321452817
-
-## Experience
-
-### Akamai Technologies India Pvt Ltd — Software Developer in Test
-**Apr 2025 – Present | Remote**
-- Built Terraform-driven AWS infrastructure across 2 accounts and 5 regions.
-- Provisioned and managed multi-region VPC, subnet, EC2, and PaaS architecture.
-- Developed Django-based Linode metrics platform with scheduled reporting and high CPU anomaly tracking.
-- Added restart-log analysis workflows to improve root-cause visibility.
-- Performed HA validation on Azure at replica/pod/network/storage levels for resilience testing.
-
-### Merkle Science, Bengaluru — Python Backend Developer (Jr.)
-**Mar 2024 – Sep 2024 | Hybrid**
-- Developed REST APIs using Django + DRF with PostgreSQL.
-- Implemented background jobs with Celery and cron.
-- Wrote unit tests with Pytest for reliability.
-- Worked on blockchain transaction monitoring/update workflows.
-- Reduced operational cost by **30%** via in-house replacement of paid service.
-- Improved API performance by **20%** and reduced failure rates by **15%**.
-
-### ONGC Videsh Limited Sucursal Colombia — Service Developer (Contract)
-**Jun 2023 – Jul 2023 | On-site**
-- Built invoice/work-order management backend for high-volume vendor/intender flows.
-- Implemented Python services with Flask/FastAPI on AWS + RDS.
-- Reduced IT workload by **40%**, improved processing time by **50%**, reduced disputes by **20%**.
-
-### ETEK International Sucursal Colombia — Website Designer (Part-time)
-**May 2023 – Jun 2023 | Remote**
-- Redesigned website UI/UX for accessibility and usability.
-- Improved user engagement by **25%** and reduced load times by **30%**.
-
-## Skills
-
-### Languages & Tools
-Python, C++, C, SQL, Docker, Git, PostgreSQL, MySQL, Snort, MATLAB
-
-### Frameworks & Tech
-Terraform, AWS CLI, CUDA, Django, Flask, DRF, Celery, Apache Spark, Hadoop, OpenVPN
-
-### Platforms
-Linux, Windows, AWS, Linode, OpenStack, Raspberry Pi, Web, Adobe XD, Adobe Photoshop
-
-### Soft Skills
-Leadership, Event Management, Writing, Public Speaking, Time Management, Team Management
-
-## Featured Projects
-
-- **Scamazon** (Windows app): Python + Tkinter + Pillow + MySQL ecommerce workflow.
-- **Social** (social media app): FastAPI + SQL + web stack with posts/comments/friend flows.
-- **Weather Gateway → OpenStack Cloud VM**: Real-time region-specific weather data pipeline.
-- **Hacker News Clone**: Auth, ranking, threaded comments, pagination, real-time updates.
-
-## Education
-
-### Indian Institute of Information Technology, Prayagraj
-**B.Tech, Information Technology | GPA: 8.10** (Jul 2020 – Jun 2024)
-
-Relevant coursework: OS, DSA, Algorithms, Cloud & Edge Computing, ML, Networking, Databases
-
-### DAV School, Kharghar
-**Higher Secondary (CBSE): 95.2%** (Jul 2019 – Jun 2020)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VONBLESS&style=flat-square&color=blue" alt="profile views" />
+</p>
 
 ---
-If you'd like to collaborate on backend/cloud/infra testing projects, feel free to connect.
+
+## About Me
+I build **reliable backend systems** and **infra testing pipelines** with a strong focus on performance, automation, and failure resilience.
+
+- Current Role: **Software Developer in Test @ Akamai Technologies**
+- Focus Areas: **Python, Django/DRF, Terraform, AWS/Azure, distributed systems testing**
+- What I enjoy: turning manual ops/testing into stable automation
+
+---
+
+## Impact Highlights
+- Provisioned and maintained multi-account, multi-region AWS infrastructure with Terraform
+- Built a Linode metrics monitoring platform (Django) with scheduled anomaly reports
+- Reduced operational costs by **30%** through in-house backend replacement
+- Improved API performance by **20%** and reduced failures by **15%**
+- Reduced invoice processing time by **50%** in production workflow automation
+
+---
+
+## Tech Stack
+
+### Languages & Core
+`Python` `C++` `C` `SQL`
+
+### Backend & Data
+`Django` `DRF` `Flask` `FastAPI` `PostgreSQL` `MySQL` `Celery` `Pytest`
+
+### Cloud, Infra & DevOps
+`Terraform` `AWS` `AWS CLI` `Azure` `Docker` `Linux` `Git`
+
+### Distributed & Systems
+`Apache Spark` `Hadoop` `OpenVPN` `OpenStack` `CUDA`
+
+---
+
+## Professional Experience
+
+### Akamai Technologies India Pvt Ltd — Software Developer in Test
+**Apr 2025 – Present • Remote**
+- Terraform-driven AWS platform across multiple accounts/regions
+- Infra provisioning with EC2 + PaaS balance and structured network segmentation
+- Linode component-level monitoring + restart-log analysis workflows
+- Azure HA testing across replica/pod/network/storage failover paths
+
+### Merkle Science (Bengaluru) — Python Backend Developer (Jr.)
+**Mar 2024 – Sep 2024 • Hybrid**
+- REST API development and maintenance using Django + DRF
+- Scheduled processing with Celery/cron and Pytest-based reliability checks
+- Blockchain transaction tracking and update workflows
+
+### ONGC Videsh Ltd (Sucursal Colombia) — Service Developer (Contract)
+**Jun 2023 – Jul 2023 • On-site**
+- Built invoice/work-order processing backend services
+- Flask/FastAPI services on AWS with RDS backend
+
+### ETEK International (Sucursal Colombia) — Website Designer (Part-time)
+**May 2023 – Jun 2023 • Remote**
+- Website redesign and UX improvements with measurable engagement gains
+
+---
+
+## Featured Projects
+- **AI Companion**: Real-time screen-aware assistant with voice/chat interaction
+- **Hacker News Clone**: Auth, ranking, threaded comments, pagination, real-time updates
+- **Scamazon (Windows App)**: Python + Tkinter ecommerce experience
+- **Social App**: FastAPI-based social platform with posts/comments/friend workflows
+- **Weather Gateway → OpenStack VM**: Region-focused real-time data monitoring pipeline
+
+---
+
+## Education
+**IIIT Prayagraj** — B.Tech, Information Technology (GPA: 8.10)  
+Relevant coursework: OS, DSA, Algorithms, Cloud & Edge Computing, ML, Networks, Databases
+
+**DAV School, Kharghar** — Higher Secondary (CBSE: 95.2%)
+
+---
+
+## Contact
+- Email: **saptarishee@gmail.com**
+- LinkedIn: **https://www.linkedin.com/in/saptarishee-laskar/**
+- GitHub: **https://github.com/VONBLESS**
+
+<p align="center"><i>Open to backend, cloud infra, and platform reliability opportunities.</i></p>
