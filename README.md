@@ -1,3 +1,34 @@
+# VONBLESS
+
+Profile README
+
+## Overview
+This repository contains the implementation, configuration, and supporting assets for this project.
+
+## Features
+- Core project functionality (see source files for detailed modules)
+
+## Tech Stack
+- Mixed stack (see repository files for exact technologies)
+
+## Project Structure
+- Top-level source files and configuration
+
+## Quick Start
+```bash
+Review project files and run using the main entrypoint.
+```
+
+## Contributing
+Contributions are welcome. Please open an issue for major changes before submitting a PR.
+
+## License
+Add your project license details here.
+
+---
+
+## Legacy Notes
+
 <h1 align="center">Saptarishee Laskar</h1>
 <p align="center"><b>Software Developer in Test • Backend Engineer • Cloud & Infra Automation</b></p>
 
