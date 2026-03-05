@@ -1,160 +1,49 @@
-# VONBLESS
-
-Profile README
-
-## Overview
-This repository contains the implementation, configuration, and supporting assets for this project.
-
-## Features
-- Core project functionality (see source files for detailed modules)
-
-## Tech Stack
-- Mixed stack (see repository files for exact technologies)
-
-## Project Structure
-- Top-level source files and configuration
-
-## Quick Start
-```bash
-Review project files and run using the main entrypoint.
-```
-
-## Contributing
-Contributions are welcome. Please open an issue for major changes before submitting a PR.
-
-## License
-Add your project license details here.
-
----
-
-## Legacy Notes
-
-# VONBLESS
-
-Profile README
-
-## Overview
-This repository contains the implementation, configuration, and supporting assets for this project.
-
-## Features
-- Core project functionality (see source files for detailed modules)
-
-## Tech Stack
-- Mixed stack (see repository files for exact technologies)
-
-## Project Structure
-- Top-level source files and configuration
-
-## Quick Start
-```bash
-Review project files and run using the main entrypoint.
-```
-
-## Contributing
-Contributions are welcome. Please open an issue for major changes before submitting a PR.
-
-## License
-Add your project license details here.
-
----
-
-## Legacy Notes
-
-<h1 align="center">Saptarishee Laskar</h1>
-<p align="center"><b>Software Developer in Test • Backend Engineer • Cloud & Infra Automation</b></p>
+<h1 align="center">Hi, I'm Saptarishee Laskar</h1>
+<h3 align="center">Backend Engineer | SDET | Cloud & Infra Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/VONBLESS"><img src="https://img.shields.io/badge/GitHub-VONBLESS-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.linkedin.com/in/saptarishee-laskar/"><img src="https://img.shields.io/badge/LinkedIn-Saptarishee_Laskar-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <img src="https://img.shields.io/badge/Location-India-ff9933?style=for-the-badge" />
+  <a href="https://github.com/VONBLESS"><img src="https://komarev.com/ghpvc/?username=VONBLESS&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/></a>
+  <a href="https://github.com/VONBLESS?tab=followers"><img src="https://img.shields.io/github/followers/VONBLESS?label=Followers&style=social" alt="followers"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VONBLESS&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNqaWI0eWxkODVqazNxc3h4M3hjeDg3dWw0ZG1rbnJ2OWRyejg0ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="320" alt="coding gif"/>
 </p>
 
----
+## Overview
+- Software Developer in Test at Akamai (Remote, Apr 2025 - Present)
+- Ex Python Backend Developer at Merkle Science (Django/DRF, Celery, PostgreSQL)
+- Built Terraform-driven AWS infrastructure across multi-account, multi-region environments
+- Interested in backend systems, infra automation, cloud reliability, and ML-assisted tooling
 
-## About Me
-I build **reliable backend systems** and **infra testing pipelines** with a strong focus on performance, automation, and failure resilience.
-
-- Current Role: **Software Developer in Test @ Akamai Technologies**
-- Focus Areas: **Python, Django/DRF, Terraform, AWS/Azure, distributed systems testing**
-- What I enjoy: turning manual ops/testing into stable automation
-
----
-
-## Impact Highlights
-- Provisioned and maintained multi-account, multi-region AWS infrastructure with Terraform
-- Built a Linode metrics monitoring platform (Django) with scheduled anomaly reports
-- Reduced operational costs by **30%** through in-house backend replacement
-- Improved API performance by **20%** and reduced failures by **15%**
-- Reduced invoice processing time by **50%** in production workflow automation
-
----
+## Connect
+<p>
+  <a href="https://www.linkedin.com/in/saptarishee-laskar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:saptarishee@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/VONBLESS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,django,flask,fastapi,postgres,mysql,docker,aws,terraform,linux,git,redis" />
+</p>
 
-### Languages & Core
-`Python` `C++` `C` `SQL`
+## Highlights
+- Designed and maintained IaC on AWS with Terraform for multi-region test infrastructure
+- Built Linode monitoring tooling with scheduled reporting and high-usage alerts
+- Improved API performance and reduced failures in production backend systems
+- Delivered invoice automation workflows on AWS (Flask/FastAPI + RDS)
 
-### Backend & Data
-`Django` `DRF` `Flask` `FastAPI` `PostgreSQL` `MySQL` `Celery` `Pytest`
+## GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=VONBLESS&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VONBLESS&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VONBLESS&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
 
-### Cloud, Infra & DevOps
-`Terraform` `AWS` `AWS CLI` `Azure` `Docker` `Linux` `Git`
-
-### Distributed & Systems
-`Apache Spark` `Hadoop` `OpenVPN` `OpenStack` `CUDA`
-
----
-
-## Professional Experience
-
-### Akamai Technologies India Pvt Ltd — Software Developer in Test
-**Apr 2025 – Present • Remote**
-- Terraform-driven AWS platform across multiple accounts/regions
-- Infra provisioning with EC2 + PaaS balance and structured network segmentation
-- Linode component-level monitoring + restart-log analysis workflows
-- Azure HA testing across replica/pod/network/storage failover paths
-
-### Merkle Science (Bengaluru) — Python Backend Developer (Jr.)
-**Mar 2024 – Sep 2024 • Hybrid**
-- REST API development and maintenance using Django + DRF
-- Scheduled processing with Celery/cron and Pytest-based reliability checks
-- Blockchain transaction tracking and update workflows
-
-### ONGC Videsh Ltd (Sucursal Colombia) — Service Developer (Contract)
-**Jun 2023 – Jul 2023 • On-site**
-- Built invoice/work-order processing backend services
-- Flask/FastAPI services on AWS with RDS backend
-
-### ETEK International (Sucursal Colombia) — Website Designer (Part-time)
-**May 2023 – Jun 2023 • Remote**
-- Website redesign and UX improvements with measurable engagement gains
-
----
-
-## Featured Projects
-- **AI Companion**: Real-time screen-aware assistant with voice/chat interaction
-- **Hacker News Clone**: Auth, ranking, threaded comments, pagination, real-time updates
-- **Scamazon (Windows App)**: Python + Tkinter ecommerce experience
-- **Social App**: FastAPI-based social platform with posts/comments/friend workflows
-- **Weather Gateway → OpenStack VM**: Region-focused real-time data monitoring pipeline
-
----
-
-## Education
-**IIIT Prayagraj** — B.Tech, Information Technology (GPA: 8.10)  
-Relevant coursework: OS, DSA, Algorithms, Cloud & Edge Computing, ML, Networks, Databases
-
-**DAV School, Kharghar** — Higher Secondary (CBSE: 95.2%)
-
----
-
-## Contact
-- Email: **saptarishee@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/saptarishee-laskar/**
-- GitHub: **https://github.com/VONBLESS**
-
-<p align="center"><i>Open to backend, cloud infra, and platform reliability opportunities.</i></p>
+## Current Focus
+- AI Companion tooling (vision + voice interaction for gameplay commentary)
+- Scalable backend services and observability
+- Practical cloud automation and reliability engineering
